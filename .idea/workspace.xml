@@ -7,7 +7,6 @@
     <list default="true" id="9dd78f48-c968-4151-a4d1-f2fc7ad3339b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-list/MovieElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-list/MovieElement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/movie-list/MovieList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-list/MovieList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641496005527</updated>
-      <workItem from="1641496008591" duration="8040000" />
+      <workItem from="1641496008591" duration="9158000" />
+      <workItem from="1641588761004" duration="922000" />
     </task>
     <servers />
   </component>
@@ -78,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
