@@ -13,4 +13,12 @@
     transform: scale(1.02);
     box-shadow: 0 1px 5px 1px rgba(20,20,20,0.04);
   }
+
+  h5 {
+    font-size: 1.1rem;
+    max-width: 120px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
 }
